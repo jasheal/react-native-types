@@ -1,0 +1,27 @@
+{
+    "authors": "Bruno Grieder <https://github.com/bgrieder>",
+    "libraryDependencies": [],
+    "moduleDependencies": [
+        "react"
+    ],
+    "libraryMajorVersion": 0,
+    "libraryMinorVersion": 37,
+    "libraryName": "react-native",
+    "typingsPackageName": "react-native",
+    "projectName": "https://github.com/facebook/react-native",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "sourceBranch": "types-2.0",
+    "kind": "ModuleAugmentation",
+    "globals": [
+        "__DEV__",
+        "global"
+    ],
+    "declaredModules": [
+        "react"
+    ],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false,
+    "contentHash": "d752ceb06217182e15859127e78f3f45d783c712ac9b7c1c13bfd7e1c946cb3a"
+}

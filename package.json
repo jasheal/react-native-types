@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@types/react-native",
+        "scope": "@types",
+        "escapedName": "@types%2freact-native",
+        "name": "@types/react-native",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/Jason/Development/Stocks"
+    ]
+  ],
+  "_from": "@types/react-native@latest",
+  "_id": "@types/react-native@0.37.1",
+  "_inCache": true,
+  "_location": "/@types/react-native",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-0.37.1.tgz_1480551332062_0.949346614535898"
+  },
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@types/react-native",
+    "scope": "@types",
+    "escapedName": "@types%2freact-native",
+    "name": "@types/react-native",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/react-native/-/react-native-0.37.1.tgz",
+  "_shasum": "7423997e365aa31fbecf5a69ee63d67f61858438",
+  "_shrinkwrap": null,
+  "_spec": "@types/react-native",
+  "_where": "/Users/Jason/Development/Stocks",
+  "author": {
+    "name": "Bruno Grieder",
+    "email": "https://github.com/bgrieder"
+  },
+  "dependencies": {
+    "@types/react": "*"
+  },
+  "description": "TypeScript definitions for react-native",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "7423997e365aa31fbecf5a69ee63d67f61858438",
+    "tarball": "https://registry.npmjs.org/@types/react-native/-/react-native-0.37.1.tgz"
+  },
+  "license": "MIT",
+  "main": "",
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "name": "@types/react-native",
+  "optionalDependencies": {},
+  "peerDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typesPublisherContentHash": "d752ceb06217182e15859127e78f3f45d783c712ac9b7c1c13bfd7e1c946cb3a",
+  "version": "0.37.1"
+}
